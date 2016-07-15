@@ -6,9 +6,9 @@ color:
   saturation: 0.7564688557758927
   rhythmicContrast: 0.9983001507353038
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: the Repository
