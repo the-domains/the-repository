@@ -1,0 +1,14 @@
+layout_spectrum: 0.6690719195175916
+typography_spectrum: 0.38266901578754187
+color:
+  brandStrength: 0.5422906901221722
+  lightness: 0.451623598812148
+  saturation: 0.7564688557758927
+  rhythmicContrast: 0.9983001507353038
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: the Repository
